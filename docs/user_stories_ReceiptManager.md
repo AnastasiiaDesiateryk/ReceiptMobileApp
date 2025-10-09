@@ -66,4 +66,4 @@ As a **user**, I want to **delete an unwanted or duplicate receipt** so that **I
 
 ---
 
-✅ These ten user stories define the **MVP scope for ReceiptManager** — covering the complete user journey from authentication, photo capture, and AI extraction to offline saving, browsing, and sharing receipts.
+
