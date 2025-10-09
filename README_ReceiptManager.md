@@ -38,4 +38,4 @@ User signs up or logs in → session securely stored in **Keychain** → access 
 
 ## Summary
 
-ReceiptKeeper provides a simple and secure way to manage expenses from your iPhone — combining **AI-powered extraction**, **cloud storage**, and **privacy-first design** in a lightweight, native SwiftUI app.
+ReceiptManager provides a simple and secure way to manage expenses from your iPhone — combining **AI-powered extraction**, **cloud storage**, and **privacy-first design** in a lightweight, native SwiftUI app.
