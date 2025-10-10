@@ -6,6 +6,14 @@
 
 ---
 
+### Related Documents
+[User Stories](../docs/2_User_Stories_ReceiptManager.md) · 
+[Use Case Diagram](../docs/3_UseCaseDiagram.md) · 
+[Project Overview](../README_ReceiptManager.md)
+
+
+---
+
 ## 1. Functional Requirements
 
 The application must provide the following features:
