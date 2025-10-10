@@ -24,7 +24,7 @@
 ### Related Documents
 [Requirements](../docs/1_Requirements_ReceiptManager.md) · 
 [Use Case Diagram](../docs/4_UseCaseDiagram.md) · 
-[README — Project Overview](../docs/README_ReceiptManager.md)
+[Project Overview](../README_ReceiptManager.md)
 
 ---
 
