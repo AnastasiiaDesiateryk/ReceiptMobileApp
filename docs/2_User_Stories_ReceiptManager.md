@@ -23,7 +23,7 @@
 
 ### Related Documents
 [Requirements](../docs/1_Requirements_ReceiptManager.md) · 
-[Use Case Diagram](../docs/4_UseCaseDiagram.md) · 
+[Use Case Diagram](../docs/3_UseCaseDiagram.md) · 
 [Project Overview](../README_ReceiptManager.md)
 
 ---
