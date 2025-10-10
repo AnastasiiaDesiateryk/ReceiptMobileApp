@@ -22,12 +22,12 @@ The application must provide the following features:
 
 ### AI Scan (OpenAI Integration)
 - The app sends the captured image to the **OpenAI Vision API** to extract text from the receipt.  
-- The API returns structured data `{merchant, date, total, confidence}`.  
+- The API returns structured data `{merchant, date, total}`.  
 - User can review, correct, and confirm extracted data before saving.  
 - If the device is offline, the receipt is stored locally and processed later when the connection is restored.
 
 ### Save
-- Receipt image stored locally or in cloud storage (technology TBD).  
+- Receipt image stored in cloud storage (technology TBD).  
 - Metadata *(merchant, date, total, folder, user_id)* saved in a secure local or cloud database.
 
 ### Browse
@@ -73,7 +73,7 @@ The application must provide the following features:
 
 ## 3. Constraints
 
-**Time** – MVP delivery within 10 weeks.  
+**Time** – MVP delivery within 20 weeks.  
 **Budget** – Internal resources only; no paid SDKs beyond OpenAI API usage.  
 **Technology** –  
 - Frontend: **SwiftUI (iOS native)**  
