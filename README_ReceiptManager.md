@@ -2,7 +2,18 @@
 
 **Project:** Personal Expense Management  
 **Author:** Anastasiia Desiateryk  
-**Date:** 2025-10-09
+**Date:** 2025-10-09  
+ <p align="center">
+  <a href="docs/1_Requirements_ReceiptManager.md">
+    <img src="https://img.shields.io/badge/Requirements-Document-blue?style=for-the-badge&logo=readthedocs" alt="Requirements">
+  </a>
+  <a href="docs/2_User_Stories_ReceiptManager.md">
+    <img src="https://img.shields.io/badge/User_Stories-Spec-grey?style=for-the-badge&logo=github" alt="User Stories">
+  </a>
+  <a href="docs/4_UseCaseDiagram.md">
+    <img src="https://img.shields.io/badge/Use_Case-Diagram-green?style=for-the-badge&logo=uml" alt="Use Case Diagram">
+  </a>
+</p>
 
 ---
 
