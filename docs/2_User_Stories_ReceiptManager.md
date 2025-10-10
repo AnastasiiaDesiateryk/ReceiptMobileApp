@@ -4,6 +4,28 @@
 **Author:** Anastasiia Desiateryk  
 **Date:** 2025-10-09  
 
+
+---
+### User Story Index  
+[US-1 Capture a Receipt](#us-1-capture-a-receipt) · 
+[US-2 Upload from Gallery](#us-2-upload-from-gallery) · 
+[US-3 AI Extract & Edit](#us-3-ai-extract--edit) · 
+[US-4 Save Receipt to Cloud](#us-4-save-receipt-to-cloud) · 
+[US-5 Browse by Folder](#us-5-browse-by-folder) · 
+[US-6 View & Share](#us-6-view--share) · 
+[US-7 Authenticate](#us-7-authenticate) · 
+[US-8 Secure Session](#us-8-secure-session) · 
+[US-9 Offline Capture](#us-9-offline-capture) · 
+[US-10 Delete Receipt](#us-10-delete-receipt)
+
+
+---
+
+### Related Documents
+[Requirements](../docs/1_Requirements_ReceiptManager.md) · 
+[Use Case Diagram](../docs/4_UseCaseDiagram.md) · 
+[README — Project Overview](../docs/README_ReceiptManager.md)
+
 ---
 
 ## US-1: Capture a Receipt  
