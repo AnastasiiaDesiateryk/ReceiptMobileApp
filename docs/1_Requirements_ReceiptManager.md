@@ -61,7 +61,7 @@ The application must provide the following features:
 
 ### User Experience
 - **iOS-native design** following **Apple Human Interface Guidelines (HIG)**.  
-- Large titles, smooth tab navigation, rounded cards, adaptive layout for iPhone SE → iPhone 15 Pro Max.
+- Large titles, smooth tab navigation, rounded cards, adaptive layout for iPhone SE → iPhone 17 Pro Max.
 
 ### Performance
 - The app must load **≤ 200 receipts** in under **2 seconds** on Wi-Fi.  
