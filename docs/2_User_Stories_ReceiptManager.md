@@ -54,8 +54,8 @@ As a **user**, I want the **app to automatically extract the store name, date, a
 
 ---
 
-## US-4: Save Receipt to Cloud  
-As a **user**, I want to **save my receipt image and extracted details** so that **I can access them later from my account**.  
+## US-4: Save Receipt  
+As a **user**, I want to **save my receipt image and extracted details** so that **I can access them later**.  
 **Acceptance Criteria:** On save, the receipt is uploaded to storage; confirmation appears; receipt shows up in the list.  
 
 ---
@@ -76,14 +76,14 @@ As a **user**, I want to **open a saved receipt in full detail and share it** so
 
 ---
 
-## US-7: Authenticate  
+## US-7: Authenticate (Optionally or Version 2.0)  
 As a **user**, I want to **sign up and log in securely** so that **my data remains private and personal**.  
 **Acceptance Criteria:** Email + password flow; successful login opens Home tabs; session persists securely.  
 <img width="452" height="906" alt="Screenshot 2025-10-10 at 09 55 02" src="https://github.com/user-attachments/assets/d0079668-8060-4a6e-8287-795b7550056e" />
 
 
 ---
-## US-8: Secure Session  
+## US-8: Secure Session (Optionally or Version 2.0)
 As a **user**, I want my **session to be stored safely** so that **no one can access my data if the device is lost or compromised**.  
 **Acceptance Criteria:** Session stored in Keychain; logout clears session completely.  
 
@@ -92,7 +92,7 @@ As a **user**, I want my **session to be stored safely** so that **no one can ac
 
 ## US-9: Offline Capture  
 As a **user**, I want to **capture receipts even without an internet connection** so that **I don’t lose data when traveling or offline**.  
-**Acceptance Criteria:** Photo saved locally as a draft; app syncs automatically when network becomes available.  
+**Acceptance Criteria:** Photo saved locally.  
 
 ---
 
